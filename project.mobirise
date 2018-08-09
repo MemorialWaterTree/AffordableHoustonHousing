@@ -336,7 +336,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/city-skyline-719982-1920x1018.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -353,12 +353,12 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/apartment-406901-1920-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/KnCHpL8sDfU",
+                "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dxflXX3KIFQ\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
